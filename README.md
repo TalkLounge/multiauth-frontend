@@ -48,12 +48,13 @@ cd multiauth-frontend
 npm install
 ```
 * Copy [.env.example](.env.example) to [.env](.env)
-<br>
 * Configure [.env](.env)
+
 ### Development
 ```
 npm run dev
 ```
+
 ### Production
 ```
 npm run build
